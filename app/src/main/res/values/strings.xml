@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laundry</string>
+    <string-array name="jenis_laundry">
+        <item>---Pilih---</item>
+        <item>Kiloan</item>
+        <item>Koin</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

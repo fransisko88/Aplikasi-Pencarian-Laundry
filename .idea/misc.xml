@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Fransisko/Documents/android/2/Laundry/app/src/main/res/drawable/button_sheet.xml" value="0.1495" />
+        <entry key="..\:/Users/Fransisko/Documents/android/2/Laundry/app/src/main/res/layout/activity_list_laundry.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Fransisko/Documents/android/2/Laundry/app/src/main/res/layout/activity_login.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/Fransisko/Documents/android/2/Laundry/app/src/main/res/layout/activity_maps.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Fransisko/Documents/android/2/Laundry/app/src/main/res/layout/activity_profil_user.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/Fransisko/Documents/android/2/Laundry/app/src/main/res/layout/item.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Fransisko/Documents/android/2/Laundry/app/src/main/res/layout/layout_botton_sheet.xml" value="0.16485507246376813" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/drawable-mdpi/ic_location.xml" value="0.2203125" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/drawable/bg_btn.xml" value="0.2203125" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/drawable/bg_rectangle_order.xml" value="0.2203125" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/drawable/bg_round.xml" value="0.2203125" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/drawable/bg_rounded_top.xml" value="0.2203125" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/drawable/button_sheet.xml" value="0.2203125" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_detail_laundry.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_favorit.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_informasi_laundry.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_informasi_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_laundry.xml" value="0.19010416666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_list_laundry.xml" value="0.19010416666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_profil_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_register_laundry.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_tentang.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/activity_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/item.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/itemUser.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/item_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/itemfavorit.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/itemuser.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/layout_botton_sheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/2/Laundry/app/src/main/res/layout/toolbar.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
